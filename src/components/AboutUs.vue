@@ -6,7 +6,7 @@
 
 
     
-    <main style="background:red">
+    <main style="background:black;color:white">
         Piyanut Sommeesri
     </main>
 
