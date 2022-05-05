@@ -6,9 +6,8 @@
 
 
     
-
     <main style="background:green;color:white">
-        Piyanut Sommeesri
+        Text Sample Data
     </main>
 
 
