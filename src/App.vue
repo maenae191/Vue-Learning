@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home Page</router-link> |
+    <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>  |
     <router-link :to="{ name: 'send.data'}" >Send Data</router-link>  | 
     <router-link :to="{ name: 'view.detail' , params: { id: '123' }}" >View Detail</router-link>
