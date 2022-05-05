@@ -2,7 +2,14 @@
 <section>
     <h1>About us</h1>
     <p>55555555555555555555 from branch Matee</p>
-    jjjjjjjjjjjjj
+
+
+
+    
+    <main style="background:blue">
+        Insert text from Branch Matee
+    </main>
+
 
 </section>
 </template>
