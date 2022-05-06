@@ -1,6 +1,6 @@
 <template>
 <section>
-    <h1>About us</h1>
+    <h1>Contact us</h1>
     <p>55555555555555555555 from branch Matee</p>
 
     
