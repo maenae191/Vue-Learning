@@ -6,7 +6,7 @@
     <div>
         {{firstName}}
     </div>
-    <h1>Sum {{numTest}} + 10 = {{sumNumber}}</h1>
+    <h5 id="title page">Sum {{numTest}} + 10 = {{sumNumber}}</h5>
     <hr>
     Fullname : {{fullName}}
     <hr>
