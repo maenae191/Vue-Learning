@@ -3,10 +3,12 @@
     <hr>
     <h1>Test TEst</h1>
     <hr>
-    <div>
+    <h2>
         {{firstName}}
-    </div>
-    <h5 id="title page">Sum {{numTest}} + 10 = {{sumNumber}}</h5>
+
+    </h2>
+    <h3 class="aaaaaa">Sum {{numTest}} + 10 = {{sumNumber}}</h3>
+
     <hr>
     Fullname : {{fullName}}
     <hr>
