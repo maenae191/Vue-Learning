@@ -5,10 +5,8 @@
     <hr>
     <h2>
         {{firstName}}
-
     </h2>
     <h3 class="aaaaaa">Sum {{numTest}} + 10 = {{sumNumber}}</h3>
-
     <hr>
     Fullname : {{fullName}}
     <hr>
