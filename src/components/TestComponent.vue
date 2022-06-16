@@ -16,15 +16,9 @@
         </li>
     </ul>
     <hr>
-    <div v-for="item of items" :key="item">{{ item.message }}</div>
+    <div v-for="i of items" :key="`key-${i}}`">{{ i.message }}</div>
     <hr>
-    <ul>
-        <template v-for="(value, key, index) in myObject" :key="index">
-            <li>
-                {{ index }}. {{ key }}: {{ value }}
-            </li>
-        </template>
-    </ul>
+    Test Pull Request
     <hr>
     <span v-for="n in 10" :key="n">{{ n }}</span>
     <hr>
